@@ -1,5 +1,5 @@
 # AccObsBenchmarks
-Accelerate and Obsidian benchmarks for my undergrad project
+Accelerate and Obsidian benchmarks for my undergraduate project.
 
 # DISCLAIMER
 
